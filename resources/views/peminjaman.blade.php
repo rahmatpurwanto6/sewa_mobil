@@ -30,11 +30,8 @@
                                     <tr>
                                         <th style="width: 10px" class="text-center">No.</th>
                                         <th class="text-center">Merk</th>
-                                        <th class="text-center">Model</th>
-                                        <th class="text-center">Plat</th>
                                         <th class="text-center">Mulai</th>
                                         <th class="text-center">Selesai</th>
-                                        <th class="text-center">Tarif</th>
                                         <th class="text-center">Aksi</th>
                                     </tr>
                                 </thead>
